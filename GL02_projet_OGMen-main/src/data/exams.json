@@ -1,0 +1,290 @@
+[
+  {
+    "id": "exam_1",
+    "date": "2024-12-06T19:50:26.521Z",
+    "questions": [
+      {
+        "title": "Question 80",
+        "text": "The children {=are growing up} very quickly. (<i>grow up</i>)",
+        "theme": "Gra-Present_tenses_habits",
+        "type": "Fill"
+      },
+      {
+        "title": "Question 289",
+        "text": "A high percentage of people {~is=are} allergic to nuts.",
+        "theme": "Review",
+        "type": "Fill"
+      },
+      {
+        "title": "Question 34",
+        "text": "I never eat meat — I follow a strict {~high-fat~low-salt~=vegetarian~vitamins~well-balanced} diet.",
+        "theme": "Voc",
+        "type": "Fill"
+      },
+      {
+        "title": "Question 7",
+        "text": "[html]I'm very interesled in learning about the culture of other countries<br>\r\n<b>IS</b><br>\r\nLearning about the culture of other countries {=is very interesting for =is very interesting to#change of adjective form: interested – interesting} me.",
+        "theme": "Review",
+        "type": "Fill"
+      },
+      {
+        "title": "Question 142",
+        "text": "My parents _____ a bit of bad luck this year.{~=have had~had}",
+        "theme": "GR-Present_perfect_vs_past_simple",
+        "type": "Fill"
+      },
+      {
+        "title": "Question 223",
+        "text": "The first few weeks {=are} the most difficult.",
+        "theme": "Subject_verb_agreement",
+        "type": "Fill"
+      },
+      {
+        "title": "Question 164",
+        "text": "Stephen _____ in insurance until last summer.{~=worked~'s worked}",
+        "theme": "GR-Present_perfect_vs_past_simple",
+        "type": "Fill"
+      },
+      {
+        "title": "Question 149",
+        "text": "My brothers _____ playing rugby together, even though they're middle-aged now.{~=have always loved~always loved}",
+        "theme": "GR-Present_perfect_vs_past_simple",
+        "type": "Fill"
+      },
+      {
+        "title": "Question 183",
+        "text": "Which person's superpower may be shared by other people who don't realise they have it {\r\n  ~A. Liam Hoekstra\r\n  ~B. Wim Hof\r\n  ~=C. Dean Karnazes\r\n  ~D. Isao Machii\r\n}",
+        "theme": "Reading-xmen",
+        "type": "Fill"
+      },
+      {
+        "title": "Question 135",
+        "text": "[markdown]Match the phrases in bold in the following sentences to the respective tense and use. {\r\n  =You can see she**'s been swimming** – her hair's still wet.                            -> Present perfect continuous - for a recent completed activity when the effects are still relevant\r\n  =I **knew** almost everyone at the party.                                               -> Past simple - for a state in the past\r\n  =Carol**'s been working** here for the last few weeks while Chloe's away having a baby. -> Present perfect continuous - to suggest that an activity is temporary\r\n  =I**'ve only worn** that shirt three times since I bought it.                           -> Present perfect - for an action repeated up to the present time\r\n  =I**'ve been having** driving lessons for months but I'm not getting any better.        -> Present perfect continuous - to emphasise that an action has been going on for a long time\r\n  =All my friends at school **played** football, not rugby.                               -> Past simple - for a habit in the past\r\n  =Harry's birthday party **didn't end** until three in the morning.                      -> Past simple - for a finished event that happened at a specific time in the past\r\n  =They**'ve been building** that house for ages and it's still only half-finished.       -> Present perfect continuous - to suggest that an activity is not complete\r\n}",
+        "theme": "GR-Present_perfect_vs_past_simple",
+        "type": "Essay"
+      },
+      {
+        "title": "Question 195",
+        "text": "How much do you know about Antarctica?",
+        "theme": "Listening",
+        "type": "Unknown"
+      },
+      {
+        "title": "Question 224",
+        "text": "Hardly any of the roses in the garden {=are} blooming.",
+        "theme": "Subject_verb_agreement",
+        "type": "Fill"
+      },
+      {
+        "title": "Question 50",
+        "text": "[markdown] What does '_these_' in line 38 refer to?  {\r\n  =Unknown possible chemicals\r\n  ~Lists on the label\r\n  ~Other healthy meals\r\n  ~The main ingredients }",
+        "theme": "Reading",
+        "type": "Fill"
+      },
+      {
+        "title": "Question 123",
+        "text": "The kids remembered {~=buying~to buy} grandma a present but couldn't find it again later.",
+        "theme": "Gra-Ing_or_inf",
+        "type": "Fill"
+      },
+      {
+        "title": "Question 162",
+        "text": "They _____ really badly until last season.{~=always played~'ve always played}",
+        "theme": "GR-Present_perfect_vs_past_simple",
+        "type": "Fill"
+      }
+    ]
+  },
+  {
+    "id": "exam_2",
+    "date": "2024-12-06T19:50:31.864Z",
+    "questions": [
+      {
+        "title": "Question 122",
+        "text": "The kids remembered {~buying~=to buy} grandma a present for her birthday.",
+        "theme": "Gra-Ing_or_inf",
+        "type": "Fill"
+      },
+      {
+        "title": "Question 308",
+        "text": "[html]<small><p><i>Complete the sentence with one of the following words: <b>abstract • blockbusters • cast • contemporary • gallery • productions</b>.</i></p></small>\r\n<p>I tend to go for original theatre {=productions} by controversial directors.</p>",
+        "theme": "Vocabulary",
+        "type": "Fill"
+      },
+      {
+        "title": "Question 478",
+        "text": "[html]\r\n<b>A:</b> I was doing something else so I didn't hear what she said. (<i>pay attention</i>) <br>\r\n<b>B:</b> If ____ what she said.{}",
+        "theme": "Third_cond-4",
+        "type": "Unknown"
+      },
+      {
+        "title": "Question 368",
+        "text": "[html]Get has a variety of different meanings. Replace <i>get</i> in the following questions with one of the verbs from the list.",
+        "theme": "Voc-Expressions_with_get",
+        "type": "Unknown"
+      },
+      {
+        "title": "Question 405",
+        "text": "[html]Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between two and five words, including the word given.<br>\r\n<b>Example:</b><br>\r\n <i>I don't think John has got his father's musical talent.</i> <i><b>AFTER</b></i><br>\r\n <i>John doesn't appear <b><u>to take after</u></b> his father as far as musical talent is concerned.</i>",
+        "theme": "ProgressTest2",
+        "type": "Essay"
+      },
+      {
+        "title": "Question 418",
+        "text": "Can you name the person from {~when~where~=whom~whose~why} you received this information?",
+        "theme": "Relative_clauses",
+        "type": "Fill"
+      },
+      {
+        "title": "Question 385",
+        "text": "It took him ages to get {~away~down~into~=over~round~through} the disappointment of not being in the play.",
+        "theme": "Review",
+        "type": "Fill"
+      },
+      {
+        "title": "Question 401",
+        "text": "Don't worry, I haven't forgotten. I {~speak~will have spoken~=am going to speak} to him later.",
+        "theme": "Review",
+        "type": "Fill"
+      },
+      {
+        "title": "Question 390",
+        "text": "[html]I think I'll still {=be learning} (<i>learn</i>) my lines until just before the play starts.",
+        "theme": "Review",
+        "type": "Fill"
+      },
+      {
+        "title": "Question 394",
+        "text": "[html]People will probably still {=watch =be watching} (<i>watch</i>) live theatre in fifty years' time.",
+        "theme": "Review",
+        "type": "Fill"
+      },
+      {
+        "title": "Question 416",
+        "text": "Please give Luke this message at any point {~=when~where~whom~whose~why} it is convenient.",
+        "theme": "Relative_clauses",
+        "type": "Fill"
+      },
+      {
+        "title": "Question 361",
+        "text": "Complete the sentences with the future continuous or future perfect form of the verbs in brackets.",
+        "theme": "Future-perfect-&-continuous",
+        "type": "Unknown"
+      },
+      {
+        "title": "Question 372",
+        "text": "[html]In which situations do you <i>get</i> angry?<br>\r\n   = In which situations do you {~=become~have~move/travel~persuade~receive~understand} angry?",
+        "theme": "Voc-Expressions_with_get",
+        "type": "Fill"
+      },
+      {
+        "title": "Question 374",
+        "text": "[html]How many texts do you <i>get</i> in an average day?<br>\r\n   = How many texts do you {~become~have~move/travel~persuade~=receive~understand} in an average day?",
+        "theme": "Voc-Expressions_with_get",
+        "type": "Fill"
+      },
+      {
+        "title": "Question 412",
+        "text": "Complete the sentences with the words in the box. You can use the words more than once.",
+        "theme": "Relative_clauses",
+        "type": "Unknown"
+      }
+    ]
+  },
+  {
+    "id": "exam_3",
+    "date": "2024-12-06T19:50:35.842Z",
+    "questions": [
+      {
+        "title": "Question 247",
+        "text": "Following the interest in his blog, Rhinehart {\r\n  ~couldn't keep up with the demand for Soylent.\r\n  ~had to choose which of his businesses to close.\r\n  ~improved the recipe for Soylent.\r\n  ~=started producing big quantities of Soylent.\r\n}",
+        "theme": "Reading-The_death_of_cooking",
+        "type": "Fill"
+      },
+      {
+        "title": "Question 370",
+        "text": "[html]What techniques do you use to <i>get</i> people to do what you want?<br>\r\n   = What techniques do you use to {~become~have~move/travel~=persuade~receive~understand} people to do what you want?",
+        "theme": "Voc-Expressions_with_get",
+        "type": "Fill"
+      },
+      {
+        "title": "Question 323",
+        "text": "[html]She assures me that she {=will get='ll get} there on time. (<i>get</i>)",
+        "theme": "GR-Future_forms",
+        "type": "Fill"
+      },
+      {
+        "title": "Question 331",
+        "text": "Match the uses of future forms to the examples. {\r\n  =<i>will</i> (a promise)                                 -> I won't tell anyone\r\n  =<i>will</i> (an expert opinion)                         -> The road will be closed.\r\n  =<i>will</i> (a decision made at the moment of speaking) -> I'll call Graham now, shall I?\r\n  =<i>going to</i> (an opinion based on present evidence)  -> She's gone very pale – she's going to faint.\r\n  =<i>going to</i> (a personal intention)                  -> I'm going to apply to university next year.\r\n  =Present continuous (a planned event)                    -> They're getting married sometime next year.\r\n  =Present simple (a timetabled event)                     -> The conference is in the first week of April.\r\n  =Present simple (a time clause with a future meaning)    -> When you arrive at the airport, phone me.\r\n  }",
+        "theme": "GR-Future_forms",
+        "type": "Essay"
+      },
+      {
+        "title": "Question 422",
+        "text": "He was {~enough~=so~such~too~very} surprised that he went to check.",
+        "theme": "So,such,too,enough",
+        "type": "Fill"
+      },
+      {
+        "title": "Question 308",
+        "text": "[html]<small><p><i>Complete the sentence with one of the following words: <b>abstract • blockbusters • cast • contemporary • gallery • productions</b>.</i></p></small>\r\n<p>I tend to go for original theatre {=productions} by controversial directors.</p>",
+        "theme": "Vocabulary",
+        "type": "Fill"
+      },
+      {
+        "title": "Question 445",
+        "text": "{~=It ~There} is almost lunchtime.",
+        "theme": "It is,there is",
+        "type": "Fill"
+      },
+      {
+        "title": "Question 459",
+        "text": "{=Although} I am more than qualified for the job, I didn't even get an interview.",
+        "theme": "Voc-Linking_words",
+        "type": "Fill"
+      },
+      {
+        "title": "Question 269",
+        "text": "[html]People believe that the criminal had a false passport.<br>\r\nIt {=is believed that the criminal had a false passport='s believed that the criminal had a false passport=is believed that the criminal had a false passport.='s believed that the criminal had a false passport.}.",
+        "theme": "Passive-reporting",
+        "type": "Fill"
+      },
+      {
+        "title": "Question 261",
+        "text": "[html]Newspapers claim that twenty top chefs have been invited to prepare the meal. <b>BY</b> <br />\r\nIt {=is claimed by} newspapers that twenty top chefs have been invited<br />\r\nto prepare the meal.",
+        "theme": "Passive",
+        "type": "Fill"
+      },
+      {
+        "title": "Question 450",
+        "text": "Choose the correct option to complete the sentences.",
+        "theme": "Review-3",
+        "type": "Unknown"
+      },
+      {
+        "title": "Question 320",
+        "text": "Look at the examples and answer the questions.\r\n- As soon as the film ends, we'll call a taxi.\r\n- We'll have dinner when she arrives.\r\n\r\n<b>1</b> What form of the verb follows a future time expression?\r\n<b>2</b> Is the clause with the time expression referring to the present or the future?\r\n<b>3</b> Is the time clause at the beginning or the end of the sentence?\r\n<b>4</b> What is the difference in meaning between as soon as and when?",
+        "theme": "Future-forms",
+        "type": "Essay"
+      },
+      {
+        "title": "Question 423",
+        "text": "My brother isn't practical {=enough~so~such~too~very} to put up a shelf.",
+        "theme": "So,such,too,enough",
+        "type": "Fill"
+      },
+      {
+        "title": "Question 449",
+        "text": "{~It ~=There} isn't any time to have a quick coffee first.",
+        "theme": "It is,there is",
+        "type": "Fill"
+      },
+      {
+        "title": "Question 251",
+        "text": "In the final paragraph, the writer expresses {\r\n  ~doubt that Soylent is only suitable for one group of people.\r\n  ~=hope that Soylent may be a solution to a serious problem.\r\n  ~surprise about the predicted demand for Soylent products.\r\n  ~disagreement that products like Soylent are a risk to family life.\r\n}\r\n\r\n// ex 6: Vocabulary / Expressions",
+        "theme": "Reading-The_death_of_cooking",
+        "type": "Fill"
+      }
+    ]
+  }
+]
